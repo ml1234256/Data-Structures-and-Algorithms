@@ -4,4 +4,6 @@
 - Linked.ipynb： 链表
 - stack-queue-head.ipynb: 栈，队列，堆
 - Tree.ipynb： 二叉树
-- SwordOfOffer.ipynb: 剑指offer面试题
+- Algorithm.ipynb: 常用算法
+- SwordOfOffer（1-34）.ipynb: 剑指offer面试题1-34
+- SwordOfOffer（35-68）.ipynb: 剑指offer面试题35-68
